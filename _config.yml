@@ -1,0 +1,13 @@
+markdown: rdiscount
+permalink: /:title/
+url: http://github.thinkingbar.com
+highlighter: pygments
+name:cy 
+author:cy 
+email: kof_cy.com
+duoshuo: niushuai
+weibo:0000 
+hub:000 
+safe: true
+paginate: 100
+about: "000"
