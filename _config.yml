@@ -1,5 +1,5 @@
 username: snipercy 
-baseurl: /snipercy.github.io
+baseurl: /blog
 markdown: redcarpet
 safe: false
 pygments: true
