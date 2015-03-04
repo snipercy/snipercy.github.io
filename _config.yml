@@ -1,0 +1,6 @@
+username: snipercy 
+baseurl: /snipercy.github.io
+markdown: redcarpet
+safe: false
+pygments: true
+title: cy
