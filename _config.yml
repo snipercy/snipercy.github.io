@@ -1,5 +1,4 @@
 username: snipercy 
-baseurl: /blog
 markdown: redcarpet
 safe: false
 pygments: true
