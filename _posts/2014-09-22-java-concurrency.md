@@ -1,6 +1,6 @@
 ---
 layout: default
-title: test
+title: test1
 comments: true
 ---
 
