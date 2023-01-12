@@ -10,10 +10,10 @@
   open sourcefile for reading
   open copyfile for writing
   +->read from source to buffer -- eof?-+
-  |				                        |
-  -- write from buffer to copyfile	    |
-  					                    |
-  	  close sourcefile <----------------+
+  |				            |
+  -- write from buffer to copyfile	     |
+  					     |      
+  	  close sourcefile <------------+
  	  close copyfile
 ```
 
