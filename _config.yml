@@ -5,7 +5,7 @@ description: 欢迎来到我的个人站~
 # 头像里面的标题
 avatarTitle: teeth
 # 头像里面的描述
-avatarDesc: Java / Hadoop / C/C++
+avatarDesc: Java / 架构设计 / 阿里妈妈
 url: "http://https://snipercy.github.io"
 
 # Comment
@@ -15,7 +15,7 @@ comment:
 
 # Social
 social:
-    weibo: xxxxx
+    # weibo: 
     github: snipercy
     # twitter:
     mail: kof_cy@qq.com
